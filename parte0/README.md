@@ -27,7 +27,7 @@ sequenceDiagram
     browser-->>user: O navegador mostra na tela a entrada inserida. <br> The browser displays the entered input on the screen.
 ```
 
-*0.5 - Diagrama SPA**
+**0.5 - Diagrama SPA**
 ```mermaid
 sequenceDiagram
     participant User
